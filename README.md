@@ -5,4 +5,4 @@
        
        FR : Identité en RageUI sur le framework esx
        EN : Identity in RageUI in esx framework
-       My Discord : Sneaky'#6666
+       My Discord : Sneaky'#0001
